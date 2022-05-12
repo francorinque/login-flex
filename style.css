@@ -22,6 +22,8 @@
   
   .login-container{
     width: 100%;
+    max-width: 600px;
+    min-width: 600px;
     height: 580px;
     display: flex;
     justify-content: center;
